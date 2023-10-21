@@ -1,0 +1,14 @@
+C:\Users\CôngNguyễnVũ\OneDrive - Đại học FPT- FPT University\Documents\Website_Selling_Clothes_API\Website_Selling_Clothes_API\APP_DATA\bin\Debug\net6.0\APP_DATA.deps.json
+C:\Users\CôngNguyễnVũ\OneDrive - Đại học FPT- FPT University\Documents\Website_Selling_Clothes_API\Website_Selling_Clothes_API\APP_DATA\bin\Debug\net6.0\APP_DATA.runtimeconfig.json
+C:\Users\CôngNguyễnVũ\OneDrive - Đại học FPT- FPT University\Documents\Website_Selling_Clothes_API\Website_Selling_Clothes_API\APP_DATA\bin\Debug\net6.0\APP_DATA.dll
+C:\Users\CôngNguyễnVũ\OneDrive - Đại học FPT- FPT University\Documents\Website_Selling_Clothes_API\Website_Selling_Clothes_API\APP_DATA\bin\Debug\net6.0\APP_DATA.pdb
+C:\Users\CôngNguyễnVũ\OneDrive - Đại học FPT- FPT University\Documents\Website_Selling_Clothes_API\Website_Selling_Clothes_API\APP_DATA\obj\Debug\net6.0\APP_DATA.csproj.AssemblyReference.cache
+C:\Users\CôngNguyễnVũ\OneDrive - Đại học FPT- FPT University\Documents\Website_Selling_Clothes_API\Website_Selling_Clothes_API\APP_DATA\obj\Debug\net6.0\APP_DATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CôngNguyễnVũ\OneDrive - Đại học FPT- FPT University\Documents\Website_Selling_Clothes_API\Website_Selling_Clothes_API\APP_DATA\obj\Debug\net6.0\APP_DATA.AssemblyInfoInputs.cache
+C:\Users\CôngNguyễnVũ\OneDrive - Đại học FPT- FPT University\Documents\Website_Selling_Clothes_API\Website_Selling_Clothes_API\APP_DATA\obj\Debug\net6.0\APP_DATA.AssemblyInfo.cs
+C:\Users\CôngNguyễnVũ\OneDrive - Đại học FPT- FPT University\Documents\Website_Selling_Clothes_API\Website_Selling_Clothes_API\APP_DATA\obj\Debug\net6.0\APP_DATA.csproj.CoreCompileInputs.cache
+C:\Users\CôngNguyễnVũ\OneDrive - Đại học FPT- FPT University\Documents\Website_Selling_Clothes_API\Website_Selling_Clothes_API\APP_DATA\obj\Debug\net6.0\APP_DATA.dll
+C:\Users\CôngNguyễnVũ\OneDrive - Đại học FPT- FPT University\Documents\Website_Selling_Clothes_API\Website_Selling_Clothes_API\APP_DATA\obj\Debug\net6.0\refint\APP_DATA.dll
+C:\Users\CôngNguyễnVũ\OneDrive - Đại học FPT- FPT University\Documents\Website_Selling_Clothes_API\Website_Selling_Clothes_API\APP_DATA\obj\Debug\net6.0\APP_DATA.pdb
+C:\Users\CôngNguyễnVũ\OneDrive - Đại học FPT- FPT University\Documents\Website_Selling_Clothes_API\Website_Selling_Clothes_API\APP_DATA\obj\Debug\net6.0\APP_DATA.genruntimeconfig.cache
+C:\Users\CôngNguyễnVũ\OneDrive - Đại học FPT- FPT University\Documents\Website_Selling_Clothes_API\Website_Selling_Clothes_API\APP_DATA\obj\Debug\net6.0\ref\APP_DATA.dll
